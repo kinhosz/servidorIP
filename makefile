@@ -1,8 +1,8 @@
 # client code directory name
-CLIENTDIR := client
+CLIENTDIR := cliente
 
 # server code directory name
-SERVERDIR := server
+SERVERDIR := servidor
 
 # common code directory name
 COMMONDIR := examples/simpleChat/common
